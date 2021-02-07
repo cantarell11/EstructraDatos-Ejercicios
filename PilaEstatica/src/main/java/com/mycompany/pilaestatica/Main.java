@@ -1,14 +1,6 @@
-/*
- OCTAVIO HERNANDEZ ROMERO
-CESAR DANIEL FLORES FREEMAN
-DIEGO GABRIEL CABALLERO CANTAREL
- */
+//Autor cantarell11
 package com.mycompany.pilaestatica;
 
-/**
- *
- * @author canta
- */
 import java.util.Scanner;
 public class Main {
     
