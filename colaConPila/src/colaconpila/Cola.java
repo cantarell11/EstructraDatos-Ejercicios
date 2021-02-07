@@ -1,8 +1,7 @@
 
 package colaconpila;
-//Autor DIEGO GABRIEL CABALLERO CANTARELL 201843326
-/*LA CLASE PILA FUE RENOMBRADA PARA TENER EL MISMO NOMBRE QUE LOS NOMBRES
-EN LA PLATAFORMA BLACKBOARD*/
+//Autor cantarell11
+
 public class Cola {
     
         Pila unicaPila;
