@@ -125,8 +125,7 @@ public class LSL {
                //cerrar ciclo(comprobara todas las posibilidades sltando de valor)
                else
                     {
-                   //FREEMAN ESTA LINEA ES LA QUE NOMAS NO SABIAMOS COMO PLANTEAR
-                   //PARA QUE RECORRIERA TODAS LAS POSIBILIDADES
+                   
                    reco1=reco1.getSig();
                      }
                   }
@@ -170,12 +169,7 @@ public class LSL {
     
     
     
-    //Práctica 3 Viernes 18
-    //1. Implementar una pila dinámica.
-    //2. Implementar una cola dinámica.
-    //3. Agregar a este código los siguientes métodos:
-    //  a. Insertar en orden ascendente.
-    //  b. Elimine los nodos en las posiciones impares.
+    
     @Override
     public String toString(){
         Nodo i;
