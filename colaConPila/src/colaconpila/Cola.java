@@ -1,6 +1,6 @@
-
-package colaconpila;
 //Autor cantarell11
+package colaconpila;
+
 
 public class Cola {
     
