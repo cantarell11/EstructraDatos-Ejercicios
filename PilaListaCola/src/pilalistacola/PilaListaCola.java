@@ -1,5 +1,4 @@
-//DIEGOGABRIEL CABALLERO CANTARELL
-//201843326
+//Autor cantarell11
 package pilalistacola;
 
 
