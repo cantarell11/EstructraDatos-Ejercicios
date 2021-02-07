@@ -1,4 +1,4 @@
-
+//Autor cantarell11
 package colaconpila;
 import java.util.Scanner;
 public class ColaConPila {
